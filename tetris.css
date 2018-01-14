@@ -1,0 +1,29 @@
+body {
+  margin: 0px;
+}
+
+#score {
+  display: inline-block;
+}
+
+#p1-score {
+  color: red;
+}
+
+#p2-score {
+  color: blue;
+}
+
+#options {
+  border: 1px solid black;
+  display: inline-block;
+  padding: 5px;
+}
+
+#options label {
+  padding: 2px;
+}
+
+#options input {
+  width: 30px;
+}
